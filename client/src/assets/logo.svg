@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-label="Home Tutor Finder">
+  <rect width="40" height="40" rx="9" fill="#2f4bab" />
+  <!-- open book -->
+  <path
+    d="M9 12.5c3.4-1.5 6.6-1.5 10 0v15c-3.4-1.5-6.6-1.5-10 0zM31 12.5c-3.4-1.5-6.6-1.5-10 0v15c3.4-1.5 6.6-1.5 10 0z"
+    fill="#ffffff"
+  />
+  <path d="M20 12.5v15" stroke="#2f4bab" stroke-width="1.4" />
+  <!-- spark above the book -->
+  <path
+    d="m20 4.6 1.15 2.6 2.6 1.15-2.6 1.15L20 12.1l-1.15-2.6-2.6-1.15 2.6-1.15z"
+    fill="#d97706"
+  />
+</svg>
